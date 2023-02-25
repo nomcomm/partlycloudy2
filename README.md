@@ -5,6 +5,8 @@ Data and analysis code for *Title* [link](https://docs.google.com/document/d/167
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nomcomm/partlycloudy2/HEAD)
 
+test: https://hub.gke2.mybinder.org/user/nomcomm-partlycloudy2-wiz5e4ym/lab/tree/scripts
+
 ***
 
 <img align="right" width=550px src=data/explainer_fig.png> 
