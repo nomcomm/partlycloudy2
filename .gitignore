@@ -7,5 +7,5 @@ scripts/old
 data/PartlyCloudy_Richardson.mp4
 data/04_anatomy
 data/02_rois_masks_maps/sub-0001_ses-02_task-partlycloudy_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz
-data/03_extract_ts/ts_array__shen268_pauli16_aan9.npy
+data/03_extract_ts/ts_array_shen268_pauli16_aan9.npy
 data/03_extract_ts
