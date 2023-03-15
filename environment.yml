@@ -1,19 +1,10 @@
-name: base
+name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.9.1
-  - pip:
-    - matplotlib
-    - nibabel
-    - nilearn
-    - nistats
-    - numpy
-    - panda
-    - pandas-flavor==0.1.2
-    - scikit-learn==0.19.2
-    - seaborn
-    - nose
-    - cm
-    - patsy
-prefix: /Users/Ralf/anaconda3
+  - python=3.11
+  - numpy
+  - matplotlib
+  - pandas
+  - nilearn
+  - seaborn
