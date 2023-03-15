@@ -4,19 +4,15 @@ channels:
 dependencies:
   - python=3.9.1
   - pip:
-    - boto==2.49.0
-    - botocore==1.12.248
-    - matplotlib==3.1.1
-    - networkx==2.3
-    - nibabel==3.2.1
-    - nilearn==0.7.1
-    - nistats==0.0.1b1
-    - numpy==1.14.5
-    - pandas==0.25.2
+    - matplotlib
+    - nibabel
+    - nilearn
+    - nistats
+    - numpy
+    - panda
     - pandas-flavor==0.1.2
     - scikit-learn==0.19.2
     - seaborn
-    - pip==18.1
     - nose
     - cm
     - patsy
