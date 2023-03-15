@@ -2,6 +2,7 @@ name: base
 channels:
   - conda-forge
 dependencies:
+  - python=3.9.1
   - pip:
     - boto==2.49.0
     - botocore==1.12.248
