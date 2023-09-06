@@ -1,4 +1,4 @@
-name: example-environment
+name: partlycloudy2env
 channels:
   - conda-forge
 dependencies:
