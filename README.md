@@ -8,7 +8,7 @@ Data and analysis code for *Title* [link](https://docs.google.com/document/d/167
 
 ***
 
-<img align="right" width=550px src=data/explainer_fig.png> 
+<img align="right" width=350px src=data/explainer_fig.png> 
 
 
 
