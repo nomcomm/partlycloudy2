@@ -1,11 +1,11 @@
-Analysis for {authors blinded} (submitted)
+Analysis for Schmälzle et al. (2024)L Converging Crowds and Tied Twins: Audience Brain Responses to the Same Movie are Consistent Across Continents and Enhanced Among Twins
 =============================================
 
-Data and analysis code for *Title* [link](todo)
+Data and analysis code for [Converging Crowds and Tied Twins: Audience Brain Responses to the Same Movie are Consistent Across Continents and Enhanced Among Twins](https://econtent.hogrefe.com/doi/10.1027/1864-1105/a000422))
 
 ***
 
-<img align="right" width=350px src=data/explainer_fig.png> 
+<img description = "generade by MidJourney" align="right" width=350px src=data/explainer_fig.png> 
 
 
 
@@ -23,4 +23,4 @@ Data and analysis code for *Title* [link](todo)
 -   see environment file
 
 
-2023 | {authors blinded} 
+2024 | {Schmaelzle et al.} 
