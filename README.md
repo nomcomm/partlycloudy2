@@ -1,7 +1,7 @@
 Analysis for Schmälzle et al. (2024) Converging Crowds and Tied Twins: Audience Brain Responses to the Same Movie are Consistent Across Continents and Enhanced Among Twins
 =============================================
 
-Data and analysis code for [Converging Crowds and Tied Twins: Audience Brain Responses to the Same Movie are Consistent Across Continents and Enhanced Among Twins](https://econtent.hogrefe.com/doi/10.1027/1864-1105/a000422))
+Data and analysis code for [Converging Crowds and Tied Twins: Audience Brain Responses to the Same Movie are Consistent Across Continents and Enhanced Among Twins](https://econtent.hogrefe.com/doi/10.1027/1864-1105/a000422)
 
 ***
 
